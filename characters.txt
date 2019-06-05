@@ -1,0 +1,10 @@
+numbers
+0-9
+lower/uppercase
+a-z A-Z
+
+special chars list
+	!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
+B special chars list1
+	!#$%'()+,-./:?@[\]^_`{}~
